@@ -1,6 +1,10 @@
 # TeQoin-wallet-
 100 % saf
 
+.env file me pura code neche wala 👉👉
+
+
+
 
 # ============ WALLET ============
 PRIVATE_KEY=0x34ca674cd22433f53b
